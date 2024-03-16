@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1316321_univer_0.user" name="x_1316321_univer_0.user">e44c0de0930d02103b0bb61efaba1011</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-16 16:20:37</sys_created_on>
+        <sys_id>a44c0de0930d02103b0bb61efaba1012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e44c0de0930d02103b0bb61efaba1011</sys_name>
+        <sys_package display_value="Universarium" source="x_1316321_univer_0">644cc9e0930d02103b0bb61efaba10d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Universarium">644cc9e0930d02103b0bb61efaba10d3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a44c0de0930d02103b0bb61efaba1012</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-16 16:20:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
